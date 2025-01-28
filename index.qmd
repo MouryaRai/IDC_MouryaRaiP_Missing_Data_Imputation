@@ -32,6 +32,22 @@ writing!
 
 ## Introduction
 
+Multiple Imputation by Chained Equations: A User Guide
+
+This paper provides a comprehensive guide to the Multiple Imputation by Chained Equations (MICE) algorithm, a widely used method for handling missing data. MICE iteratively imputes missing values for each variable using predictive models, such as regression or logistic regression. This iterative process continues until convergence, resulting in multiple completed datasets.
+
+MissForest: Nonparametric Missing Value Imputation for Mixed-Type Data
+
+This paper introduces the MissForest algorithm, which utilizes random forest models for imputing missing values in datasets containing a mixture of data types (e.g., continuous, categorical). 
+
+Multiple Imputation for Missing Data in Epidemiological and Clinical Research: Potential and Pitfalls
+
+This paper focuses on a statistical technique called "multiple imputation," which is widely used to handle missing data in fields like clinical and epidemiological research. Missing data is a common problem, and it can skew results or reduce the reliability of research findings if not managed properly. Multiple imputation offers a systematic way to fill in these gaps by creating multiple "complete" datasets and combining their results to give more accurate estimates.
+
+Missing Value Imputation Techniques: A Survey
+
+This paper offers an overview of the various techniques used to handle missing data, making it an excellent starting point for anyone new to this topic. Missing data is a widespread issue in datasets, and the choice of how to address it can significantly impact the quality of analysis. The authors cover both traditional statistical methods and newer machine learning-based approaches, making it a well-rounded and comprehensive guide.
+
 The introduction should:
 
 -   Develop a storyline that captures attention and maintains interest.
