@@ -48,6 +48,14 @@ Missing Value Imputation Techniques: A Survey
 
 This paper offers an overview of the various techniques used to handle missing data, making it an excellent starting point for anyone new to this topic. Missing data is a widespread issue in datasets, and the choice of how to address it can significantly impact the quality of analysis. The authors cover both traditional statistical methods and newer machine learning-based approaches, making it a well-rounded and comprehensive guide.
 
+Missing Data
+
+Missing data is a critical issue in research, especially in medical databases where incomplete records can lead to biased conclusions. This paper categorizes missing data, examines its impact, and evaluates various imputation techniques to restore dataset integrity.
+
+Missing data and multiple imputation in clinical epidemiological research
+
+Missing data is a common issue in clinical and epidemiological research, often leading to biased results if not handled properly. This paper highlights the importance of dealing with missing values correctly and introduces multiple imputation as a reliable method to improve the accuracy of statistical analyses.
+
 The introduction should:
 
 -   Develop a storyline that captures attention and maintains interest.
